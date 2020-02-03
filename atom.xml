@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jahonn.github.io/</id>
     <title>剑心</title>
-    <updated>2020-02-03T08:27:54.337Z</updated>
+    <updated>2020-02-03T08:28:17.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jahonn.github.io/"/>
     <link rel="self" href="https://jahonn.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, 剑心</rights>
     <entry>
         <title type="html"><![CDATA[使用GitHub Pages和Gridea搭建个人博客（一）]]></title>
-        <id>https://jahonn.github.io/post/shi-yong-github-pages-he-gridea-da-jian-ge-ren-bo-ke-yi</id>
-        <link href="https://jahonn.github.io/post/shi-yong-github-pages-he-gridea-da-jian-ge-ren-bo-ke-yi">
+        <id>https://jahonn.github.io/shi-yong-github-pages-he-gridea-da-jian-ge-ren-bo-ke-yi</id>
+        <link href="https://jahonn.github.io/shi-yong-github-pages-he-gridea-da-jian-ge-ren-bo-ke-yi">
         </link>
         <updated>2020-02-03T07:43:30.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
@@ -34,8 +34,8 @@ Gridea是一个跨平台静态博客写作客户端，提供Mac OS、Windows、L
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://jahonn.github.io/post/hello-gridea</id>
-        <link href="https://jahonn.github.io/post/hello-gridea">
+        <id>https://jahonn.github.io/hello-gridea</id>
+        <link href="https://jahonn.github.io/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
