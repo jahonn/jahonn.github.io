@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jahonn.github.io</id>
     <title>剑心</title>
-    <updated>2020-02-03T08:46:31.912Z</updated>
+    <updated>2020-02-03T08:53:28.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jahonn.github.io"/>
     <link rel="self" href="https://jahonn.github.io/atom.xml"/>
@@ -16,8 +16,11 @@
         <link href="https://jahonn.github.io/shi-yong-github-pages-he-gridea-da-jian-ge-ren-bo-ke-yi">
         </link>
         <updated>2020-02-03T07:43:30.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>Gridea官网：https://gridea.dev/<br>
+        <summary type="html"><![CDATA[<p>Gridea官网：https://gridea.dev/<br>
+Gridea是一个跨平台静态博客写作客户端，提供Mac OS、Windows、Linux版本<br>
+界面十分友好</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Gridea官网：https://gridea.dev/<br>
 Gridea是一个跨平台静态博客写作客户端，提供Mac OS、Windows、Linux版本<br>
 界面十分友好</p>
 <!-- more -->

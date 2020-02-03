@@ -1,182 +1,151 @@
 <html>
-<head>
-    <meta charset="utf-8"/>
-<meta name="description" content=""/>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>剑心</title>
-<link rel="shortcut icon" href="https://jahonn.github.io/favicon.ico?v=1580719580081">
-<link href="https://cdn.bootcss.com/font-awesome/5.11.2/css/all.css" rel="stylesheet">
-<link rel="stylesheet" href="https://jahonn.github.io/styles/main.css">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-      integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+      <head>
+        <meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=1,user-scalable=no" />
+        <meta charset="utf-8">
+        <meta name="referrer" content="never">
+        <title>剑心</title>
+        <link rel="stylesheet" href="https://cdn.staticfile.org/KaTeX/0.11.1/katex.min.css">
+        <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://jahonn.github.io/styles/main.css">
+          <script src="https://jahonn.github.io/media/scripts/mdui.min.js"></script>
+        <link rel="stylesheet" href="https://at.alicdn.com/t/font_1306644_jwtuc2zzbrd.css">
+        <link href="https://fonts.googleapis.com/css?family=Dancing+Script|Ma+Shan+Zheng&display=swap" rel="stylesheet">
+        <script src="https://cdn.bootcss.com/highlight.js/9.15.10/highlight.min.js"></script>
+        <script src="https://jahonn.github.io/media/scripts/script.js"></script>
+        <script >hljs.initHighlightingOnLoad();</script>
+        
 
-<script src="https://cdn.bootcss.com/highlight.js/9.15.10/highlight.min.js"></script>
-<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/dockerfile.min.js"></script>
-<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/dart.min.js"></script>
-<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/go.min.js"></script>
-<script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
-<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
-        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
-        crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
-        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
-        crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
-        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
-        crossorigin="anonymous"></script>
+    </head>
+    <body class="mdui-theme-primary-purple mdui-theme-accent-purple">
+        <header class=" mdui-m-b-3 header">
+                          <button class="mdui-btn daohang mdui-btn-icon mdui-btn-dense mdui-color-theme-500 mdui-ripple yinying mdui-m-t-1 mdui-m-l-1" mdui-menu="{target: '#demo-attr-cascade'}"><i class="mdui-icon material-icons">&#xe5d2;</i></button>
+                <ul class="mdui-menu " id="demo-attr-cascade">
+                
+                        <li class="mdui-menu-item">
+                          <a href="/" class="mdui-ripple">首页</a>
+                        </li>
+                
+                        <li class="mdui-menu-item">
+                          <a href="/archives" class="mdui-ripple">归档</a>
+                        </li>
+                
+                        <li class="mdui-menu-item">
+                          <a href="/tags" class="mdui-ripple">标签</a>
+                        </li>
+                
+                        <li class="mdui-menu-item">
+                          <a href="/post/about" class="mdui-ripple">关于</a>
+                        </li>
+                
+                      </ul>
+                      <div class="mdui-text-center">
+                      <div class="mdui-typo-display-4 mdui-m-b-3 index-title">剑心</div>
+                      <div class="mdui-typo-headline">愿将腰下剑， 直为斩楼兰。</div>
+                      </div>
 
-<!-- DEMO JS -->
-<script src="media/scripts/index.js"></script>
+        </header >
+        <div class="mdui-container">
+                <div class="mdui-row">
+                        <div class="mdui-col-md-6 mdui-col-offset-md-3 ">
+                                                     
+                            <article class="mdui-m-t-4 index-list mdui-shadow-15 mdui-hoverable mdui-p-a-2 q">
+                                    <div class="mdui-row">
+                                            <div class="mdui-col-xs-12 ">
+                                              <div class="mdui-row mdui-m-b-2">
+                                                <div class="mdui-col-xs-12 mdui-col-sm-8">
+                                                    <div class="mdui-typo-headline mdui-m-b-2"><a href="https://jahonn.github.io/shi-yong-github-pages-he-gridea-da-jian-ge-ren-bo-ke-yi" class="index-list-title">使用GitHub Pages和Gridea搭建个人博客（一）</a></div>
+                                                    <div class="mdui-typo-body-2 index-list-neirong"><p>Gridea官网：https://gridea.dev/
+Gridea是一个跨平台静态博客写作客户端，提供Mac OS、Windows、Linux版本
+界面十分友好
+
+下面是折腾及踩坑步骤
+1.安装Git
+2.Gridea官网下载对应平台的...</p></div>
+                                                </div>
+                                                <div class="mdui-col-xs-12 mdui-col-sm-4 "><div class="index-list-img mdui-shadow-8" style="background-image:url(https://jahonn.github.io/post-images/shi-yong-github-pages-he-gridea-da-jian-ge-ren-bo-ke-yi.jpg)"></div></div>
+                                              </div>
+                                              
+                                              <a href="https://jahonn.github.io/tag/dPDDiN14h" class="index-list-biaoqian mdui-float-left yinying">Gridea</a>
+                                               
+                                              <a href="https://jahonn.github.io/shi-yong-github-pages-he-gridea-da-jian-ge-ren-bo-ke-yi" class="index-list-biaoqian mdui-float-right yinying">2020-02-03</a>
+                                              
+
+                                            </div>
+                                          </div>
+
+                            </article>
+
+                            <article class="mdui-m-t-4 index-list mdui-shadow-15 mdui-hoverable mdui-p-a-2 q">
+                                    <div class="mdui-row">
+                                            <div class="mdui-col-xs-12 ">
+                                              <div class="mdui-row mdui-m-b-2">
+                                                <div class="mdui-col-xs-12 mdui-col-sm-8">
+                                                    <div class="mdui-typo-headline mdui-m-b-2"><a href="https://jahonn.github.io/hello-gridea" class="index-list-title">Hello Gridea</a></div>
+                                                    <div class="mdui-typo-body-2 index-list-neirong"><p>👏  欢迎使用 Gridea ！
+✍️  Gridea 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...
+
+Github
+Gridea 主页
+示例网站
+特性👇
+📝  你可以使用最酷的 Markdo...</p></div>
+                                                </div>
+                                                <div class="mdui-col-xs-12 mdui-col-sm-4 "><div class="index-list-img mdui-shadow-8" style="background-image:url(https://jahonn.github.io/post-images/hello-gridea.png)"></div></div>
+                                              </div>
+                                              
+                                              <a href="https://jahonn.github.io/tag/dPDDiN14h" class="index-list-biaoqian mdui-float-left yinying">Gridea</a>
+                                               
+                                              <a href="https://jahonn.github.io/hello-gridea" class="index-list-biaoqian mdui-float-right yinying">2018-12-12</a>
+                                              
+
+                                            </div>
+                                          </div>
+
+                            </article>
 
 
+                                                   <nav class="mdui-m-y-3">
+                         
+                         
+                         </nav>
 
-</head>
-<body>
-<div class="main gt-bg-theme-color-first">
-    <div class="main-content">
-        <nav class="navbar navbar-expand-lg">
-    <div class="navbar-brand">
-        <img class="user-avatar" src="/images/avatar.png" alt="头像">
-        <div class="site-name gt-c-content-color-first">
-            剑心
+                        </div>
+                 </div>
+          
         </div>
-    </div>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <i class="fas fa-bars gt-c-content-color-first" style="font-size: 18px"></i>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <div class="navbar-nav mr-auto" style="text-align: center">
-            
-                <div class="nav-item">
-                    
-                        <a href="/" class="menu gt-a-link">
-                            首页
-                        </a>
-                    
-                </div>
-            
-                <div class="nav-item">
-                    
-                        <a href="/archives" class="menu gt-a-link">
-                            归档
-                        </a>
-                    
-                </div>
-            
-                <div class="nav-item">
-                    
-                        <a href="/tags" class="menu gt-a-link">
-                            标签
-                        </a>
-                    
-                </div>
-            
-                <div class="nav-item">
-                    
-                        <a href="/post/about" class="menu gt-a-link">
-                            关于
-                        </a>
-                    
-                </div>
-            
-        </div>
-    </div>
-</nav>
-
-        <div class="post-list-container">
-    <div class="post-inner">
-        
-            <div class="post gt-bg-theme-color-second">
-                <div class="post-left">
-                    <div>
-                        
-                        <a href="https://jahonn.github.io/shi-yong-github-pages-he-gridea-da-jian-ge-ren-bo-ke-yi">
-                            <span class="post-title gt-c-content-color-first">使用GitHub Pages和Gridea搭建个人博客（一）</span>
-                        </a>
-                    </div>
-                    <div class="gt-post-content post-abstract gt-c-content-color-second">
-                        
-                    </div>
-                    <div class="post-info">
-                        <time class="post-time gt-c-content-color-first">
-                            发布于 · 2020-02-03 ·
-                        </time>
-                        
-                            <a href="https://jahonn.github.io/tag/dPDDiN14h" class="post-tag">
-                                # Gridea
-                            </a>
-                        
-                    </div>
-                </div>
-                
-            </div>
-        
-            <div class="post gt-bg-theme-color-second">
-                <div class="post-left">
-                    <div>
-                        
-                        <a href="https://jahonn.github.io/hello-gridea">
-                            <span class="post-title gt-c-content-color-first">Hello Gridea</span>
-                        </a>
-                    </div>
-                    <div class="gt-post-content post-abstract gt-c-content-color-second">
-                        <p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-
-                    </div>
-                    <div class="post-info">
-                        <time class="post-time gt-c-content-color-first">
-                            发布于 · 2018-12-12 ·
-                        </time>
-                        
-                            <a href="https://jahonn.github.io/tag/dPDDiN14h" class="post-tag">
-                                # Gridea
-                            </a>
-                        
-                    </div>
-                </div>
-                
-                    <a href="https://jahonn.github.io/hello-gridea" class="post-feature-image"
-                       style="background-image: url('https://jahonn.github.io/post-images/hello-gridea.png')">
-                    </a>
-                
-            </div>
-        
-    </div>
-</div>
-
-        <div class="pagination-container">
-    
-    
-</div>
-
-
-        <div class="site-footer gt-c-content-color-first">
-    <div class="slogan gt-c-content-color-first">愿将腰下剑， 直为斩楼兰。</div>
-    <div class="social-container">
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-    </div>
-    <a href="http://www.beian.miit.gov.cn" target="_blank">京ICP备15047667号</a> Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a href="https://jahonn.github.io/atom.xml" target="_blank">RSS</a>
-</div>
-
-<script>
-    hljs.initHighlightingOnLoad()
-</script>
-
-    </div>
-</div>
-</body>
+        <footer class="footer mdui-m-t-5 mdui-text-center">
+               <nav class="social-links">
+                      <ul>
+                      
+                            
+                           
+                            
+                           
+                            
+                           
+                            
+                           
+                            
+                           
+                            
+                           
+                            
+                           
+                            
+                           
+                            
+                           
+                            
+                           
+                            
+                           
+                            
+                           
+                      </ul>
+                    </nav>
+                    <div class="copyright">
+                      <p><a href="http://www.beian.miit.gov.cn" target="_blank">京ICP备15047667号</a> Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> <br/> Theme <a href="https://github.com/shanbufun/gridea-theme-jia" target="_blank"  title="佳"  >Jia</a> by <a href="https://shanbu.fun/" target="_blank"  title="山卜方" >Shanbufun</a> </p>
+                  </div>
+              </footer>
+    </body>
 </html>
