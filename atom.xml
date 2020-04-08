@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jahonn.github.io/</id>
     <title>剑心</title>
-    <updated>2020-02-03T10:09:29.610Z</updated>
+    <updated>2020-04-08T10:14:48.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jahonn.github.io/"/>
     <link rel="self" href="https://jahonn.github.io/atom.xml"/>
@@ -10,6 +10,164 @@
     <logo>https://jahonn.github.io/images/avatar.png</logo>
     <icon>https://jahonn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 剑心</rights>
+    <entry>
+        <title type="html"><![CDATA[字节跳动面试]]></title>
+        <id>https://jahonn.github.io/zi-jie-tiao-dong-mian-shi</id>
+        <link href="https://jahonn.github.io/zi-jie-tiao-dong-mian-shi">
+        </link>
+        <updated>2020-02-10T03:42:20.000Z</updated>
+        <content type="html"><![CDATA[<p>http请求流程<br>
+http https区别<br>
+类的加载流程<br>
+activity的启动流程，singleTop会复用那些生命流程<br>
+service intentservice区别<br>
+java内存分布<br>
+sharedprefrence， apply，跨进程<br>
+apk打包流程</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实习信息汇总]]></title>
+        <id>https://jahonn.github.io/shi-xi-xin-xi-hui-zong</id>
+        <link href="https://jahonn.github.io/shi-xi-xin-xi-hui-zong">
+        </link>
+        <updated>2020-02-09T08:32:16.000Z</updated>
+        <content type="html"><![CDATA[<p>实习岗位名称:测试开发实习生<br>
+招募公司:百度<br>
+所属部门组:垂类创新质量部 知识团队<br>
+联系方式: chenyuezhang@baidu.com<br>
+工作地点:北京，百度大厦，到学校40分钟</p>
+<p>任职资格 -- 基本条件:<br>
+-正规高校计算机或相关专业本科以上学历<br>
+-熟悉Linux/Unix操作系统<br>
+-熟悉一门编程语言，掌握计算机网络基本原理<br>
+-对测试工作有兴趣，每周最好可以实习4天及以上<br>
+工资情况: 硕士220每天，本科170每天</p>
+<p>工作职责：<br>
+-负责百度知识产品（如百度百科，文科，知道等）的测试工作，丰富的代码能力锻炼机会<br>
+-根据项目需要，制定项目测试用例并实施，保证项目质量和进度<br>
+-根据项目需要，设计与实现有关自动化测试的代码与用例</p>
+<p>本人也是实习生，组里很缺人，投递简历后直接发给部门老大，简历过了年后马上面试，欢迎同学们投递或咨询chenyuezhang@baidu.com</p>
+<p>【腾讯】产品运营实习生<br>
+地点：北京海淀区中关村软件园腾讯北京总部<br>
+【职位描述】<br>
+1、负责腾讯看点内容日常运营，包括：品类内容的生产对接、协助处理账号问 题、跨部门沟通与合作等<br>
+2、日常数据分析整理<br>
+3、进行热点监控与跟踪<br>
+【岗位要求】<br>
+1、本科及以上学历，专业不限，热爱互联网<br>
+2、对数据敏感，逻辑思维强，具备优秀的表达与沟通能力，善于思考<br>
+3、擅长 Office 办公软件<br>
+4、每周工作 4-5 天，可长期实习优先<br>
+【福利待遇】<br>
+大厂实习经验，免费早餐，免费长线班车，健身房，弹性工作制，鹅厂福利...<br>
+【投递方式】<br>
+请将简历按照“姓名+学校+每周可出勤天数+可实习月数”格式投递到 wenchaoli@tencent.com</p>
+<p>https://job.bytedance.com/referral/pc/position/detail/6704509998459783431?token=MzsxNTc5NTA0NDcxOTAzOzY3MzM0NjgzMjc2NzY2MTAwNjA7MA</p>
+<p>https://job.bytedance.com/referral/pc/position/detail/6704522374689065227?token=MzsxNTc5NTA0NDcxOTAzOzY3MzM0NjgzMjc2NzY2MTAwNjA7MA</p>
+<p>实习岗位名称:<br>
+数据分析实习生</p>
+<p>所需人数:</p>
+<p>招募公司:<br>
+快手</p>
+<p>所属部门组:<br>
+用户增长部</p>
+<p>联系方式:<br>
+wangyuxin05@kuaishou.com</p>
+<p>答复时间(如每日8点答复email等):</p>
+<p>工作地点:<br>
+北京上地西路6号</p>
+<p>交通情况(北邮为出发点,包括公交,地铁,达到时间):</p>
+<p>任职资格 --  基本条件:<br>
+1、有好奇心，对互联网、内容行业及未来科技有强烈兴趣；<br>
+2、较强的逻辑分析、数据分析与快速的学习能力；<br>
+3、沟通能力强，能快速地理解各方诉求；<br>
+4、本科及以上学历，在校期间有互联网相关背景者优先。</p>
+<p>任职资格 --  优先条件:</p>
+<p>工资情况:</p>
+<p>实习时间(包括实习期的长度,每日实习的时间):</p>
+<p>福利情况(包括是否包吃住等):<br>
+免费三餐＋喂猪一样的下午茶</p>
+<p>工作职责:<br>
+1、对业务部门进行数据需求支持，梳理基础数据，深度挖掘，开展数据分析工作；<br>
+2、基于数据分析成果，为部门提供分析和业务优化建议，持续改进运营效果；<br>
+3、根据数据结论，推进业务的开展；<br>
+4、完成领导交代的其他工作。</p>
+<p>职业资料(这里介绍职业的相关资料,如前景等):</p>
+<p>补充:</p>
+<p>https://app.mokahr.com/campus_apply/tusenweilai/3232#/job/0acb6505-5a74-4070-a553-cd48149dd086?_k=pligtn</p>
+<p>BDA是投资圈内知名的投资咨询公司，已有25年历史，服务全球知名的对冲和私募基金。我们的Research团队出色，都是国内外名校硕士毕业生，有丰富的开发经验，并且还可以分享投资和行业知识。</p>
+<p>主要工作内容如下：</p>
+<ol>
+<li>参与开发分布式爬虫系统（主要工作内容）</li>
+<li>数据抽取并结构化</li>
+<li>数据挖掘分析计算</li>
+</ol>
+<p>要求：<br>
+扎实的编程功底，掌握至少一门编程语言（如Java，Python等），有node.js经验者优先。热爱编程和处理数据。</p>
+<p>主要针对硕士生二年级同学，实习表现优秀有转正机会！</p>
+<p>每周工作4-5天，至少工作4个月。<br>
+待遇：每个月8000元。<br>
+有意者请发简历至: careers@bda.com</p>
+<p>希望能长期实习，如半年或1年以上者优先考虑，实习优秀者毕业可提供转正机会，并给股票期权！<br>
+简历投递邮箱：hr@shenshangtech.com  （应聘岗位及备注来源）</p>
+<p>【关于我们】<br>
+公司从事AI+产业垂直解决方案，创始人CEO为前国内一线大厂的AI领军人物，在当前环境下已经快速完成数百万美元的天使轮轮融资，产品已经在企业进入实用阶段。<br>
+创始团队成员来自清华、北大、康奈尔等国内国际一流学府，由国际著名人工智能专家领衔。团队拥有BAT等大厂的工作经验，拥有超过10年的互联网背景、跨国企业管理经验、以及丰富的AI与产业创业背景。</p>
+<p>图像算法实习   5名， 硕士：5.5~7k ；博士：8-10k       地点：中关村</p>
+<p>工作职责：</p>
+<p>-负责AI模型的设计研发工作</p>
+<p>-负责设计高可用性、高可扩展性、高效算法</p>
+<p>-针对具体应用算法调优</p>
+<p>职位要求：</p>
+<p>-计算机专业重点本科以上学历，精通PyTorch, TensorFlow 框架中的一种，精通Python</p>
+<p>-精通计算机视觉典型算法，熟悉图像分类、分割、目标识别、姿态识别、视频理解、对抗生成网络等方向中的一种或几种</p>
+<p>-数据结构和算法基础扎实，了解常用设计模式</p>
+<h2 id="-具有较强的业务需求分析能力良好的沟通和协作能力良好的抗压能力">-具有较强的业务需求分析能力，良好的沟通和协作能力，良好的抗压能力</h2>
+<p>--</p>
+<p>python开发实习生   5-6k     5名<br>
+岗位职责：</p>
+<ol>
+<li>参与中后台服务的设计与开发工作</li>
+<li>参与产品功能开发，日志分析，系统调优等工作</li>
+</ol>
+<p>任职要求：</p>
+<ol>
+<li>计算机相关专业全日制本科及以上在读</li>
+<li>熟悉python语言，代码功底扎实</li>
+<li>有良好的算法数据结构基础</li>
+<li>具备出色的学习能力，探索精神及自我驱动力</li>
+<li>每周实习不少于4天</li>
+</ol>
+<p>实习岗位名称:<br>
+后台实习生</p>
+<p>所需人数:<br>
+1-2</p>
+<p>招募公司:<br>
+网易北京研发中心</p>
+<p>所属部门组:<br>
+内容技术组</p>
+<p>联系方式:</p>
+<p>答复时间(如每日8点答复email等):<br>
+caigen@corp.netease.com</p>
+<p>工作地点:<br>
+中关村软件园二期网易北京研发中心</p>
+<p>交通情况(北邮为出发点,包括公交,地铁,达到时间):<br>
+西二旗地铁站乘坐班车到达公司</p>
+<p>任职资格 --  基本条件:<br>
+本科，熟悉基本数据结构，掌握java、Python编程语言，了解html、css、正则表达式等基础知识</p>
+<p>任职资格 --  优先条件:<br>
+有网络爬虫相关经验者优先，可长期实习者优先</p>
+<p>工资情况:<br>
+面谈</p>
+<p>实习时间(包括实习期的长度,每日实习的时间):</p>
+<p>福利情况(包括是否包吃住等):<br>
+一日三餐，班车接送到地铁站</p>
+<p>工作职责:<br>
+负责内容抓取相关工作：爬虫功能开发、解析模板配置、数据接口开发等。</p>
+<p>职业资料(这里介绍职业的相关资料,如前景等):</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用GitHub Pages和Gridea搭建个人博客（一）]]></title>
         <id>https://jahonn.github.io/shi-yong-github-pages-he-gridea-da-jian-ge-ren-bo-ke-yi</id>
